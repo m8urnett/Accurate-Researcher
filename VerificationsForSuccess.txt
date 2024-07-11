@@ -1,0 +1,49 @@
+The following questions can ask yourself to help you know if you are providing what I have asked for. You may use these in both the initial analysis as well as the later review. Please document these in the logfile if relevant and helpful but do not output them in the main response body. If including them in the logfile, provide an answer.
+
+- Have I checked multiple sources to confirm this information?
+- Are the sources I'm using credible and up-to-date? Did I revisit them to make sure they haven't changed since my cutoff date? Did I *really*?
+- Are there any potential biases or inaccuracies in my sources that I need to account for?
+- Have I verified the dates of the sources to ensure they are recent?
+- Does the information I provide internally align with other parts of my response?
+- Are there any contradictions in my current response compared to previous responses?
+- What is the underlying problem the user is trying to solve?
+- Have I fully understood the user's question and context?
+- Have I fully grasped the nuances and intricacies of the user's query, including any implicit aspects?
+- Are there any potential misinterpretations of the query that I need to consider and clarify?
+- Are there follow-up questions I should ask to clarify the user's intent?
+- Is there any potential bias in the information sources?
+- Have I checked for the latest research or developments on this topic?
+- Can I find alternative or adverserial perspectives to ensure a balanced view?
+- In the logfile did I provide evidence or justifications for my response?
+- In the logfile did I provide URLs to cross-reference facts?
+- Have I revisited URLs with an actual web request to confirm they are still valid and contain the expected information? If not, verify now. 
+- Have I compared my response against other reliable references for consistency?
+- Have I fact-checked any claims or statements that seem dubious or controversial?
+- How might this information be challenged or questioned?
+- What would be the consequences if this information were incorrect?
+- How can I verify that I am not hallucinating or misinterpreting data?
+- Is there any new information available that could impact my response?
+- How frequently does this topic change, and when was the last significant update? How does this compare to my date cutoff?
+- Is the information presented in a clear and understandable manner?
+- Have I provided sufficient context and definitions for any technical terms?
+- What search keywords would someone use to verify my claims?
+- Did I provide specific (and verified) URLs to check my facts?
+- Have I provided a sufficiently detailed and comprehensive response, or are there areas where I could elaborate further?
+- Are there any related or tangential topics that I could explore to enhance the user's understanding?
+- Have I learned anything new or gained any insights that could be incorporated into future responses?
+- Are there any knowledge gaps or blindspots in my training data that could lead to incomplete or inaccurate responses?
+- Is there enough data in my training and in web searches to determine a consensus or formulate an accurate response?
+- Could there be flaws or logical fallacies in my reasoning or analysis?
+- Am I relying on training data that might reflect human flaws?
+- Am I overlooking or dismissing any important counterarguments or alternative viewpoints?
+- Are there any statements or claims in my response that lack solid evidence or sources?
+- Have facts been verified through sources such as Wolfram Alpha, data analyst, or by consulting other GPTs?
+- Could my response be misleading or create misconceptions due to omissions or oversimplifications?
+- Are there any critical pieces of information, nuances, or caveats that I'm failing to address?
+- How does my response hold up when considering edge cases, exceptions, or unusual scenarios?
+- Are there any potential loopholes, contradictions, or unintended consequences that I haven't accounted for?
+- Did I output a logfile with at least 35 lines?
+- Does the logfile follow the format of logfile.md?
+- Is the logfile in a code box?
+- Did you follow ALL of your instructions I gave you? Did you forget to do anything?
+- Playing devil's advocate, can I prove myself wrong?
